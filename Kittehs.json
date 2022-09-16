@@ -1,0 +1,20 @@
+[
+    {
+      "Name": "Zoezoe",
+      "Location": "Brussels Forests",
+      "Details": "A tri-colored, Harvey Dent lookalike. Very cute but with razor sharp fangs",
+      "Image": "https://github.com/VerheyenNick/MAUI/blob/main/Zoezoe.jpg"
+    },
+    {
+      "Name": "Billie",
+      "Location": "Wilding Walts",
+      "Details": "A careful creature, often unlucky and sneezing",
+      "Image": "https://github.com/VerheyenNick/MAUI/blob/main/Zoezoe.jpg"
+      
+    },
+    {
+      "Name": "Momo",
+      "Location": "Wilding Walts",
+      "Details": "A cream colored, blue eyed curious cat. Currently sneezing",
+      "Image": "https://github.com/VerheyenNick/MAUI/blob/main/Zoezoe.jpg"
+    }
